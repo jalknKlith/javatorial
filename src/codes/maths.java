@@ -5,8 +5,8 @@ public class maths {
         int x = 16;
         int y = 20;
         int randomNum = (int) (Math.random() * 45)+1;
-        System.out.println(Math.sqrt((double)x));
-        System.out.println(Math.sqrt((double)y));
+        System.out.println(Math.sqrt(x));
+        System.out.println(Math.sqrt(y));
         System.out.println(Math.min(x, y));
         System.out.println(Math.max(x, y));
         System.out.println(Math.abs(x));
