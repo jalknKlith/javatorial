@@ -4,20 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fec899b2-87ad-40ef-9b99-0a2b3c056ca1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classOnes/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classOnes/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/pooPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/pooVehicle.java" afterDir="false" />
+    <list default="true" id="fec899b2-87ad-40ef-9b99-0a2b3c056ca1" name="Changes" comment="new files">
+      <change afterPath="$PROJECT_DIR$/src/codes/calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/countdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/evenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/heartBeats.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/Palindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codes/doubleTriple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/doubleTriple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/guessNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/guessNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/productPay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/productPay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/rand50nums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/rand50nums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codes/romNum50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/romNum50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/starSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/starSign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/pooPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/pooPerson.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,21 +29,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "jalknKleith"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jalknKleith&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jalknKleith/javatorial.git",
-    "accountId": "64fd535a-695d-41ef-9289-dc6a3c9d5a7a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jalknKleith/javatorial.git&quot;,
+    &quot;accountId&quot;: &quot;64fd535a-695d-41ef-9289-dc6a3c9d5a7a&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ha57XmubV15m0CKdJNW26sxc0J" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
@@ -63,16 +58,33 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Fibonacci.executor": "Run",
+    "Application.calculator.executor": "Run",
+    "Application.countdown.executor": "Run",
     "Application.doubleTriple.executor": "Run",
     "Application.rand50nums.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/macbookair/Documents/git/javatorial",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/macbookair/Documents/git/javatorial/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.tabs"
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -81,8 +93,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717819184345</updated>
+      <workItem from="1717866368308" duration="1189000" />
+      <workItem from="1717871117697" duration="2438000" />
     </task>
+    <task id="LOCAL-00001" summary="new files">
+      <option name="closed" value="true" />
+      <created>1717856320507</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717856320507</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -97,6 +123,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

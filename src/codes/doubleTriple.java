@@ -24,16 +24,7 @@ public class doubleTriple {
 
 /*
 Enter 10 integer numbers:
-29
-90
-45
-76
-98
-12
-43
-86
-12
-14
+29 | 90 | 45 | 76 | 98 | 12 | 43 | 86 | 12 | 14
 Doubled or tripled numbers:
 87 | 180 | 135 | 152 | 196 | 24 | 129 | 172 | 24 | 28 |
  */

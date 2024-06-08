@@ -10,6 +10,7 @@ public class pooPerson {
         objPerson.setId("335566");
         objPerson.setName("John");
         objPerson.setSurname("Steward");
+        objPerson.setPhone("3017624398");
         objPerson.setEmail("johnstew@gmail.com");
         objPerson.setAddress("Street 80");
         objPerson.setAge(16);
