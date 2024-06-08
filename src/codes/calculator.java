@@ -18,7 +18,7 @@ public class calculator {
             case "-" -> System.out.println(x-y);
             case "*" -> System.out.println(x*y);
             case "/" -> System.out.println(x/y);
-        };
+        }
     }
 }
 

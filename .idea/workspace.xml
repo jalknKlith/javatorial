@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fec899b2-87ad-40ef-9b99-0a2b3c056ca1" name="Changes" comment="new files">
-      <change afterPath="$PROJECT_DIR$/src/codes/calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/countdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/evenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/heartBeats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/forLoop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/weekDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/whileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/doubleTriple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/doubleTriple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/romNum50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/romNum50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poo/pooPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/pooPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717819184345</updated>
       <workItem from="1717866368308" duration="1189000" />
-      <workItem from="1717871117697" duration="2438000" />
+      <workItem from="1717871117697" duration="3465000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <option name="closed" value="true" />
@@ -104,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717856320507</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new files">
+      <option name="closed" value="true" />
+      <created>1717878719930</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717878719931</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
