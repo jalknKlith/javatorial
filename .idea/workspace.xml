@@ -5,26 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fec899b2-87ad-40ef-9b99-0a2b3c056ca1" name="Changes" comment="new files">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calcarea/circleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calcarea/rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calcarea/squArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calcarea/triangleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/budget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/fillArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/increase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/largestNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/profit40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/votingAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/vowelCon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maths/multiplyFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maths/serie11for.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/doubleTriple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/doubleTriple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/guessNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/guessNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/maths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maths/maths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/quotient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maths/quotient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calcarea/rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calcarea/rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calcarea/triangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calcarea/triangleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/password.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +64,10 @@
     "Application.fillArray.executor": "Run",
     "Application.largestNum.executor": "Run",
     "Application.maths.executor": "Run",
+    "Application.password.executor": "Run",
     "Application.rand50nums.executor": "Run",
+    "Application.rectangle.executor": "Run",
+    "Application.triangleArea.executor": "Run",
     "Application.vowelCon.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -125,7 +112,7 @@
       <workItem from="1717884185007" duration="67000" />
       <workItem from="1717884947123" duration="657000" />
       <workItem from="1717886719469" duration="2058000" />
-      <workItem from="1717892505448" duration="2857000" />
+      <workItem from="1717892505448" duration="3847000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <option name="closed" value="true" />
@@ -167,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717880418017</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new files">
+      <option name="closed" value="true" />
+      <created>1717900261865</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717900261865</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

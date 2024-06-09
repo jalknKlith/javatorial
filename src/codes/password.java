@@ -1,4 +1,5 @@
 package codes;
+import java.util.Objects;
 import java.util.Scanner;
 
 public class password {
@@ -10,7 +11,7 @@ public class password {
         System.out.print("Write it again: ");
         String pass2 = input.nextLine();
         // Checking if they are equal
-        while(pass1 != pass2){
+        while(!Objects.equals(pass1, pass2)){
             System.out.print("try again: ");
             pass2 = input.nextLine();
         }//Printing 'welcome!'
@@ -24,7 +25,6 @@ pass1 = input("write your password ")
 pass2 = input("write it again ")
 while (pass1 != pass2):
         pass2 = input("try again")
-
 print("welcome!")
 
 
