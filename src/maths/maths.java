@@ -1,4 +1,4 @@
-package codes;
+package maths;
 
 public class maths {
     public static void main(String[] args) {

@@ -33,12 +33,29 @@ public class guessNum {
     }
 }
 
-/*
-Enter a number from 1 to 10:
-3
-The number to guess is lower.
-Enter a number from 1 to 10:
-1
-You win! It took you 2 tries.
+/* python
+
+import random
+
+guessNum = random.randint(1,10)
+tries = 3
+num = 0
+
+while num != guessNum and tries > 0:
+	num =int(input("Enter a number from 1 to 10: "))
+
+	if num > guessNum:
+		print("The number is lower. ")
+
+	elif num < guessNum:
+		print("The number is higher. ")
+
+	tries -= 1
+
+if num == guessNum:
+	print("¡Y O U  W I N! with", (3 - tries), "tries.")
+else:
+	print("G A M E  O V E R. The number to guess was ",  guessNum)
+
 */
 

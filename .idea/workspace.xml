@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fec899b2-87ad-40ef-9b99-0a2b3c056ca1" name="Changes" comment="new files">
-      <change afterPath="$PROJECT_DIR$/src/codes/maths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/quotient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calcarea/circleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calcarea/rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calcarea/squArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calcarea/triangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/budget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/fillArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/increase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/largestNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/profit40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/votingAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/vowelCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maths/multiplyFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maths/serie11for.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/doubleTriple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/doubleTriple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/guessNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/guessNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/maths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maths/maths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/quotient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maths/quotient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="module-info" />
+        <option value="JavaScript File" />
         <option value="Class" />
       </list>
     </option>
@@ -52,10 +72,16 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Fibonacci.executor": "Run",
+    "Application.budget.executor": "Run",
     "Application.calculator.executor": "Run",
+    "Application.circleArea.executor": "Run",
     "Application.countdown.executor": "Run",
     "Application.doubleTriple.executor": "Run",
+    "Application.fillArray.executor": "Run",
+    "Application.largestNum.executor": "Run",
+    "Application.maths.executor": "Run",
     "Application.rand50nums.executor": "Run",
+    "Application.vowelCon.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -69,6 +95,11 @@
     "onboarding.tips.debug.path": "/Users/macbookair/Documents/git/javatorial/src/Main.java",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -88,7 +119,13 @@
       <option name="presentableId" value="Default" />
       <updated>1717819184345</updated>
       <workItem from="1717866368308" duration="1189000" />
-      <workItem from="1717871117697" duration="4137000" />
+      <workItem from="1717871117697" duration="5402000" />
+      <workItem from="1717883702946" duration="180000" />
+      <workItem from="1717883916076" duration="254000" />
+      <workItem from="1717884185007" duration="67000" />
+      <workItem from="1717884947123" duration="657000" />
+      <workItem from="1717886719469" duration="2058000" />
+      <workItem from="1717892505448" duration="2857000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <option name="closed" value="true" />
@@ -114,7 +151,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717879655540</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new files">
+      <option name="closed" value="true" />
+      <created>1717880344844</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717880344844</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new files">
+      <option name="closed" value="true" />
+      <created>1717880418017</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717880418017</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

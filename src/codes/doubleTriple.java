@@ -2,7 +2,6 @@ package codes;
 import java.util.Scanner;
 
 public class doubleTriple {
-
     public static void main(String[] args) {
         // Asking and storing the 10 numbers
         Scanner input = new Scanner(System.in);
