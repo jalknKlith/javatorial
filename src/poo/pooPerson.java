@@ -2,9 +2,8 @@ package poo;
 import classOnes.Person;
 
 public class pooPerson {
-
     public static void main(String[] args) {
-        //
+        //Adding values
         Person objPerson;
         objPerson = new Person();
         objPerson.setId("335566");
@@ -25,9 +24,6 @@ public class pooPerson {
         objPerson.validateAge();
         System.out.println(objPerson.validateGender("M"));
         System.out.println("-------------------------------");
-
-
-
     }
 }
 

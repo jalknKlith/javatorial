@@ -27,38 +27,29 @@ public class Vehicle {
 
     public Vehicle() {
 
-    }
-
-    //GETTERS
+    }//GETTERS
 
     public String getPlate() {
         return plate;
     }
-
     public String getColor() {
         return color;
     }
-
     public int getModel() {
         return model;
     }
-
     public String getChassis() {
         return chassis;
     }
-
     public String getCapacity() {
         return capacity;
     }
-
     public String getType() {
         return type;
     }
-
     public String getBrand() {
         return brand;
     }
-
     public double getWeight() {
         return weight;
     }
@@ -67,51 +58,39 @@ public class Vehicle {
     public void setPlate(String plate) {
         this.plate = plate;
     }
-
     public void setColor(String color) {
         this.color = color;
     }
-
     public void setModel(int model) {
         this.model = model;
     }
-
     public void setChassis(String chassis) {
         this.chassis = chassis;
     }
-
     public void setCapacity(String capacity) {
         this.capacity = capacity;
     }
-
     public void setType(String type) {
         this.type = type;
     }
-
     public void setBrand(String brand) {
         this.brand = brand;
     }
-
     public void setWeight(double weight) {
         this.weight = weight;
     }
 
-    // TWO METHODS NO RETURN(plate,color,model)
+    // TWO METHODS WITHOUT RETURN(plate,color,model)
     public void validatePCM() {
         System.out.println(this.plate + " was made in "
                 + this.model + " and it's " + this.color);
-    }
-
-    // How old is the car?
+    }// How old is the car? WITHOUT RETURN
     public void validateTimeUsage(int currentAge) {
         int usageTime = currentAge - this.model;
         System.out.println(this.plate + " is " + usageTime + " old");
-    }
-
-    //
+    }// Average per ks /RETURN
     public double validateKs(double kilometers, double currentYear) {
         double average = kilometers / (currentYear - this.model);
         return average;
-
     }
 }

@@ -7,7 +7,7 @@ public class doubleTriple {
         Scanner input = new Scanner(System.in);
         int[] num = new int[10];
         System.out.println("Enter 10 numbers: "+"\n");
-        for (int i = 0; i < num.length; i++) {
+        for (int i = 0; i < 10; i++) {
             num[i] = input.nextInt();
         } // Looping even(x2) or odd(x3)
         System.out.println("\n"+"Doubled or tripled numbers: "+"\n");

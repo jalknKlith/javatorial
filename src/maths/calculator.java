@@ -1,4 +1,4 @@
-package codes;
+package maths;
 import java.util.Scanner;
 
 public class calculator {

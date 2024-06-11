@@ -18,4 +18,11 @@ public class Palindrome {
         }
     }
 }
-
+/*
+word = input("Enter a word: ")
+reversed = text[::-1]
+if word == reversed:
+    print("The word '{}' is a palindrome.".format(text))
+else:
+    print("The word '{}' is not a palindrome.".format(text))
+ */

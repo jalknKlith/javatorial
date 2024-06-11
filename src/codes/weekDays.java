@@ -16,6 +16,7 @@ public class weekDays {
             case 5 -> System.out.println("Friday");
             case 6 -> System.out.println("Saturday");
             case 7 -> System.out.println("Sunday");
+            default -> System.out.println("Error");
         }
     }
 }

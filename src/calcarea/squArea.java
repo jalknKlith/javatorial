@@ -6,7 +6,7 @@ public class squArea {
         // Asking for the length side
         int side, area;
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter the length side");
+        System.out.println("Enter the length of the square: ");
         side = input.nextInt();
         // Calculating the area of a rectangle
         area = (int) Math.pow(side, 2);

@@ -8,7 +8,7 @@ public class rectangle {
         System.out.println("Enter the length of the rectangle: ");
         float length = input.nextFloat();
         System.out.println("Enter the width of the rectangle: ");
-        float width = (float) input.nextFloat();
+        float width = input.nextFloat();
         // Calculating the area of a rectangle
         float area = length * width;
         // Printing the result.

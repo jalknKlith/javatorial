@@ -1,7 +1,7 @@
 package codes;
 /*
-In a business there are three branches: branch1, branch2, branch3
-The business's annual budget is distributed
+In a company there are three branches: branch1, branch2, branch3
+The company's annual budget is distributed
 40% branch1, 30% branch2, 30% branch3,
 Read the total budget and print the budget value by branch
 */
@@ -11,7 +11,7 @@ public class budget {
     public static void main(String[] args) {
         // Asking for the total budget
         Scanner input = new Scanner(System.in);
-        System.out.print("Enter the business's total annual budget: ");
+        System.out.print("Enter the company's annual budget: ");
         double budget = input.nextDouble(); //
         // Calculating the budget per area
         double branch1 = budget * 0.4d;

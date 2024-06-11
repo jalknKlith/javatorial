@@ -4,11 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fec899b2-87ad-40ef-9b99-0a2b3c056ca1" name="Changes" comment="new files">
+    <list default="true" id="fec899b2-87ad-40ef-9b99-0a2b3c056ca1" name="Changes" comment="&#10;new files">
+      <change afterPath="$PROJECT_DIR$/src/classOnes/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classOnes/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/bmi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/doWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/forList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/itemsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/loopList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/newList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maths/addOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/pooBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/pooHouse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/calcarea/rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calcarea/rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calcarea/triangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calcarea/triangleArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/password.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calcarea/squArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calcarea/squArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classOnes/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classOnes/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classOnes/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classOnes/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/budget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/budget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maths/calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/doubleTriple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/doubleTriple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/weekDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/weekDays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/maths/maths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maths/maths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/maths/serie11for.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maths/serie11for.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/pooPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/pooPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/pooVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/pooVehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,19 +77,34 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Fibonacci.executor": "Run",
+    "Application.addOperator.executor": "Run",
+    "Application.arrayList.executor": "Run",
+    "Application.bmi.executor": "Run",
     "Application.budget.executor": "Run",
     "Application.calculator.executor": "Run",
     "Application.circleArea.executor": "Run",
     "Application.countdown.executor": "Run",
+    "Application.createList.executor": "Run",
+    "Application.doWhile.executor": "Run",
     "Application.doubleTriple.executor": "Run",
     "Application.fillArray.executor": "Run",
+    "Application.forList.executor": "Run",
+    "Application.itemsList.executor": "Run",
     "Application.largestNum.executor": "Run",
+    "Application.loopList.executor": "Run",
     "Application.maths.executor": "Run",
+    "Application.newList.executor": "Run",
     "Application.password.executor": "Run",
+    "Application.pooBook.executor": "Run",
+    "Application.pooHouse.executor": "Run",
+    "Application.pooPerson.executor": "Run",
+    "Application.pooVehicle.executor": "Run",
     "Application.rand50nums.executor": "Run",
     "Application.rectangle.executor": "Run",
     "Application.triangleArea.executor": "Run",
     "Application.vowelCon.executor": "Run",
+    "Application.weekDays.executor": "Run",
+    "Node.js.animation.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -80,7 +116,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/macbookair/Documents/git/javatorial/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -112,7 +148,8 @@
       <workItem from="1717884185007" duration="67000" />
       <workItem from="1717884947123" duration="657000" />
       <workItem from="1717886719469" duration="2058000" />
-      <workItem from="1717892505448" duration="3847000" />
+      <workItem from="1717892505448" duration="5201000" />
+      <workItem from="1717902745513" duration="27519000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <option name="closed" value="true" />
@@ -162,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717900261865</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&#10;new files">
+      <option name="closed" value="true" />
+      <created>1717901294953</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717901294954</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +227,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="new files" />
-    <option name="LAST_COMMIT_MESSAGE" value="new files" />
+    <MESSAGE value="&#10;new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;new files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

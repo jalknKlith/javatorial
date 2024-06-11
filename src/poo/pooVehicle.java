@@ -1,11 +1,9 @@
 package poo;
-
 import classOnes.Vehicle;
 
 public class pooVehicle {
-
     public static void main(String[] args) {
-        //
+        //values
         Vehicle objVehicle;
         objVehicle = new Vehicle();
         objVehicle.setPlate("335KQW");
@@ -16,7 +14,7 @@ public class pooVehicle {
         objVehicle.setWeight(16000);
         objVehicle.setType("Sedan");
         objVehicle.setCapacity("8");
-
+        //printing values
         System.out.println("\n"+"VEHICLE'S DATES");
         System.out.println("-------------------------------");
         System.out.println("Plate: " + objVehicle.getPlate());
