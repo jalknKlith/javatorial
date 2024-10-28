@@ -1,7 +1,7 @@
 package classOnes;
 
 public class Vehicle {
-    //attributes
+    //ATTRIBUTES
     public String plate;
     public String color;
     public int model;
@@ -11,24 +11,10 @@ public class Vehicle {
     public String brand;
     public double weight;
 
-    //
-    public Vehicle(String plate, String color, int model,
-                   String chassis, String capacity, String type,
-                   String brand, double weight) {
-        this.plate = plate;
-        this.color = color;
-        this.model = model;
-        this.chassis = chassis;
-        this.capacity = capacity;
-        this.type = type;
-        this.brand = brand;
-        this.weight = weight;
-    }
-
+    //CONSTRUCTOR
     public Vehicle() {
 
     }//GETTERS
-
     public String getPlate() {
         return plate;
     }
@@ -80,15 +66,15 @@ public class Vehicle {
         this.weight = weight;
     }
 
-    // TWO METHODS WITHOUT RETURN(plate,color,model)
+    // (plate,color,model) WITHOUT RETURN
     public void validatePCM() {
         System.out.println(this.plate + " was made in "
-                + this.model + " and it's " + this.color);
+                + this.model + " and it's " + this.color.toLowerCase());
     }// How old is the car? WITHOUT RETURN
     public void validateTimeUsage(int currentAge) {
         int usageTime = currentAge - this.model;
         System.out.println(this.plate + " is " + usageTime + " old");
-    }// Average per ks /RETURN
+    }// Kms per year /WITH RETURN
     public double validateKs(double kilometers, double currentYear) {
         double average = kilometers / (currentYear - this.model);
         return average;

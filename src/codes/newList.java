@@ -5,7 +5,7 @@ public class newList {
     public static void main(String[] args) {
         // Creating the array <String><Integer><Double>
         ArrayList<String> brandList =
-                new ArrayList<String>();
+                new ArrayList<>();
         // Adding the values
         brandList.add("Volvo");
         brandList.add("BMW");

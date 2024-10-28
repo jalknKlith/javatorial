@@ -4,7 +4,7 @@ import java.util.ArrayList;
 public class forList {
     public static void main(String[] args) {
         // Creating the array
-        ArrayList<String> cars = new ArrayList<String>();
+        ArrayList<String> cars = new ArrayList<>();
         // Adding the values
         cars.add("Volvo");
         cars.add("BMW");

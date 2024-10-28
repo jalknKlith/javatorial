@@ -10,10 +10,10 @@ public class doWhile {
         } while (i < 5);
         System.out.println("--------------");
         // while loop
-        int x = 0;
-        while (x < 5) {
-            System.out.println(x);
-            x++;
+        int z = 0;
+        while (z < 5) {
+            System.out.println(z);
+            z++;
         }
     }
 }

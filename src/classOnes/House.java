@@ -14,27 +14,13 @@ public class House {
     public House() {}
 
     //GETTERS
-    public int getId() {
-        return id;
-    }
-    public String getCity() {
-        return city;
-    }
-    public String getAddress() {
-        return address;
-    }
-    public int getRooms() {
-        return rooms;
-    }
-    public int getFloors() {
-        return floors;
-    }
-    public int getBaths() {
-        return baths;
-    }
-    public int getKitchens() {
-        return kitchens;
-    }
+    public int getId() { return id;}
+    public String getCity() {return city;}
+    public String getAddress() {return address;}
+    public int getRooms() {return rooms;}
+    public int getFloors() {return floors;}
+    public int getBaths() {return baths;}
+    public int getKitchens() {return kitchens;}
 
     //SETTERS
     public void setId(int id) {
@@ -55,9 +41,8 @@ public class House {
     public void setBaths(int baths) {
         this.baths = baths;
     }
-    public void setKitchens(int kitchens) {
-        this.kitchens = kitchens;
-    }
+    public void setKitchens(int kitchens) { this.kitchens = kitchens;}
+
     //METHOD WITHOUT RETURN
     public void showHouse() {
         System.out.println("The house '" + this.id + "'" + "\n" +

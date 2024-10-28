@@ -15,15 +15,12 @@ public class Book {
     public int getId() {
         return id;
     }
-
     public String getTitle() {
         return title;
     }
-
     public String getWriter() {
         return writer;
     }
-
     public int getPages() {
         return pages;
     }
@@ -32,19 +29,15 @@ public class Book {
     public void setId(int id) {
         this.id = id;
     }
-
     public void setTitle(String title) {
         this.title = title;
     }
-
     public void setWriter(String writer) {
         this.writer = writer;
     }
-
     public void setPages(int pages) {
         this.pages = pages;
     }
-    //METHOD WITH RETURN
 
     //METHOD WITHOUT RETURN
     public void showBook() {
@@ -52,10 +45,9 @@ public class Book {
                 "was written by '" + this.writer + "'" + "\n" +
                 "and it has " + this.pages + " pages");
     }
-
     //METHOD WITH RETURN
     public String compareBooks(Book book1, Book book2) {
-        String longer = "";
+        String longer;
         if (book1.pages > book2.pages) {
             longer = "The book '" + book1.title + "'\n"+
                     "is longer than\n" + "the book '" + book2.title + "'";

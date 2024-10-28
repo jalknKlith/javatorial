@@ -5,29 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fec899b2-87ad-40ef-9b99-0a2b3c056ca1" name="Changes" comment="&#10;new files">
-      <change afterPath="$PROJECT_DIR$/src/classOnes/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classOnes/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/bmi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/doWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/forList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/itemsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/loopList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codes/newList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maths/addOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/pooBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/pooHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/lists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calcarea/rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calcarea/rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calcarea/squArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calcarea/squArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classOnes/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classOnes/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classOnes/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classOnes/House.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/classOnes/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classOnes/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/classOnes/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classOnes/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/budget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/budget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maths/calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/doWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/doWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codes/doubleTriple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/doubleTriple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codes/weekDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/weekDays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maths/maths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maths/maths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maths/serie11for.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maths/serie11for.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/evenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/evenOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/fillArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/fillArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/forList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/forList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codes/newList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codes/newList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/pooHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/pooHouse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/poo/pooPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/pooPerson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/poo/pooVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/pooVehicle.java" afterDir="false" />
     </list>
@@ -60,6 +52,9 @@
     &quot;accountId&quot;: &quot;64fd535a-695d-41ef-9289-dc6a3c9d5a7a&quot;
   }
 }</component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -72,59 +67,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Fibonacci.executor": "Run",
-    "Application.addOperator.executor": "Run",
-    "Application.arrayList.executor": "Run",
-    "Application.bmi.executor": "Run",
-    "Application.budget.executor": "Run",
-    "Application.calculator.executor": "Run",
-    "Application.circleArea.executor": "Run",
-    "Application.countdown.executor": "Run",
-    "Application.createList.executor": "Run",
-    "Application.doWhile.executor": "Run",
-    "Application.doubleTriple.executor": "Run",
-    "Application.fillArray.executor": "Run",
-    "Application.forList.executor": "Run",
-    "Application.itemsList.executor": "Run",
-    "Application.largestNum.executor": "Run",
-    "Application.loopList.executor": "Run",
-    "Application.maths.executor": "Run",
-    "Application.newList.executor": "Run",
-    "Application.password.executor": "Run",
-    "Application.pooBook.executor": "Run",
-    "Application.pooHouse.executor": "Run",
-    "Application.pooPerson.executor": "Run",
-    "Application.pooVehicle.executor": "Run",
-    "Application.rand50nums.executor": "Run",
-    "Application.rectangle.executor": "Run",
-    "Application.triangleArea.executor": "Run",
-    "Application.vowelCon.executor": "Run",
-    "Application.weekDays.executor": "Run",
-    "Node.js.animation.js.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/macbookair/Documents/git/javatorial",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/macbookair/Documents/git/javatorial/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.addOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bmi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.budget.executor&quot;: &quot;Run&quot;,
+    &quot;Application.calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.circleArea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.countdown.executor&quot;: &quot;Run&quot;,
+    &quot;Application.createList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.doWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.doubleTriple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fillArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.forList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.itemsList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.largestNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lists.executor&quot;: &quot;Run&quot;,
+    &quot;Application.loopList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maths.executor&quot;: &quot;Run&quot;,
+    &quot;Application.newList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.password.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pooBook.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pooHouse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pooPerson.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pooVehicle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rand50nums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.romNum50.executor&quot;: &quot;Run&quot;,
+    &quot;Application.squArea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stacker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.triangleArea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.vowelCon.executor&quot;: &quot;Run&quot;,
+    &quot;Application.weekDays.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.animation.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jalknkleith/Downloads/javatorial&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/macbookair/Documents/git/javatorial/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -149,7 +151,13 @@
       <workItem from="1717884947123" duration="657000" />
       <workItem from="1717886719469" duration="2058000" />
       <workItem from="1717892505448" duration="5201000" />
-      <workItem from="1717902745513" duration="27519000" />
+      <workItem from="1717902745513" duration="30401000" />
+      <workItem from="1718075090005" duration="15000" />
+      <workItem from="1718075123571" duration="3132000" />
+      <workItem from="1718083978756" duration="8678000" />
+      <workItem from="1718125087150" duration="6884000" />
+      <workItem from="1718225162901" duration="25000" />
+      <workItem from="1718225843023" duration="2752000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <option name="closed" value="true" />
@@ -207,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717901294954</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&#10;new files">
+      <option name="closed" value="true" />
+      <created>1718070338097</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718070338098</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +245,10 @@
     <MESSAGE value="new files" />
     <MESSAGE value="&#10;new files" />
     <option name="LAST_COMMIT_MESSAGE" value="&#10;new files" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

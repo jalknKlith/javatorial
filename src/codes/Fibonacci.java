@@ -26,11 +26,26 @@ public class Fibonacci {
     }
 }
 
-/*
+/* python
 
-Enter the number of terms of the
-Fibonacci sequence you want to print: 12
-The first 12 terms of the Fibonacci
-sequence are: 0 1 1 2 3 5 8 13 21 34 55 89
+import sys
 
-*/
+n = int(input("Enter the number of terms of the"+"\n"+
+                "Fibonacci sequence you want to print: "))
+a = 0
+b = 1
+i = 2
+
+print("The first " + str(n) + " " +
+                "terms of the Fibonacci"+"\n"+"sequence are: ")
+print(a, b, end=" ")
+
+while i < n:
+    c = a + b
+    print(c, end=" ")
+    a = b
+    b = c
+    i += 1
+
+ */
+

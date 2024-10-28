@@ -1,7 +1,7 @@
 package classOnes;
 
 public class Person {
-    //attribute
+    //ATTRIBUTE
     public String id;
     public String name;
     public String surname;
@@ -9,11 +9,9 @@ public class Person {
     public String email;
     public String address;
     public int age;
-
-    //void constructor
+    //VOID CONSTRUCTOR
     public Person() {
     }
-
     //GETTERS
     public String getId() {
         return id;
@@ -38,7 +36,6 @@ public class Person {
     }
 
     //SETTERS
-
     public void setId(String id) {
         this.id = id;
     }
@@ -61,19 +58,18 @@ public class Person {
         this.age = age;
     }
 
-    //METHOD NO RETURN
-
+    //METHOD WITHOUT RETURN
     public void validateAge() {
         if (18 <= this.age) {
             System.out.println(this.name + " "
                     + this.surname + " is an adult");
         } else {
             System.out.println(this.name + " "
-                    + this.surname + " is not an adult");
+                    + this.surname + " is UNDER 18");
         }
-    }
+    }//METHOD WITH RETURN
     public String validateGender(String gender) {
-        String answer="";
+        String answer = "";
         if (gender.equals("F") || gender.equals("f")){
             answer = "She is a female";
         } else if (gender.equals("M") || gender.equals("m")) {
